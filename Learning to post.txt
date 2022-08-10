@@ -1,0 +1,4 @@
+Learnt About ModelMapper for mapping Entity to DTO vice versa
+Exception handling in Spring Boot
+Validating request input data in dta for create and update and
+and giving custom response about bad request coming due to Validation in wrong input
